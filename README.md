@@ -1034,3 +1034,6 @@ Developed as technical exercise for Associate Software Engineer (Cloud & IoT) po
 ---
 
 **Note:** This is a demonstration project for interview purposes. For production use, additional hardening and monitoring would be recommended.
+
+
+image.png
